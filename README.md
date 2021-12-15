@@ -13,6 +13,7 @@ En este curso, los pasos a seguir será.
 Análisis
 Plasmar
 Programar
+
 La mayoría solo aprende a hacer esto en un lenguajes de programación, aquí se tiene una variabilidad.
 
 
