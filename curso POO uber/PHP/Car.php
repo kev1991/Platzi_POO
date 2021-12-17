@@ -6,8 +6,8 @@ class Car {
     public $passengers = integer;
 
     public function__construct($license,$driver){
-        $this->license = $license
-        $this->driver = $driver
+        $this->license = $license;
+        $this->driver = $driver;
     }
 
     public function print_data_car(){
