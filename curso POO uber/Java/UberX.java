@@ -7,6 +7,10 @@ class UberX extends Car{
         this.brand = brand;
         this.model = model;
     }
+    void print_data_UberX(){
+        System.out.println("| License: " + license + " | Drand: "+ brand + " | Model: "+ model + " | Passegenger: "+ passegenger);
+    } 
+
 }
 
 
