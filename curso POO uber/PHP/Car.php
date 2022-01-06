@@ -4,7 +4,7 @@
         public $id;
         public $license;
         public $driver;
-        public $passengers;
+        protected $passenger; // Es importante que esta propiedad esté marcada como protected
 
         public function __construct($license, $driver){
             $this->license = $license;
